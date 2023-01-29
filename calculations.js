@@ -19,7 +19,7 @@ function getRestAfterDivision(x, y) {
 }
 
 function getIncrementBalance(x) {
-  x = x++;
+  x = ++x;
   return x;
 }
 
